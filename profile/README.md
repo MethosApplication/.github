@@ -1,4 +1,4 @@
 METHOS
 ======
 
-> Design Your `... wait for it ...`
+> Your Biological OS
