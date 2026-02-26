@@ -39,5 +39,5 @@ METHOS
 ### Other
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/FeatherTools/.github/blob/main/profile/feather-logo-200.png"><img src="https://github.com/FeatherTools/.github/raw/main/profile/feather-logo-200.png" alt="FeatherTools Logo" width="50" height="50" style="max-width: 100%; height: auto;"></a>
-  <a href="https://almalinux.org/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/182107863?s=200&v=4" alt="AlmaLinux" width="50" height="50"/></a>
+  <a href="https://github.com/alma-oss/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/182107863?s=200&v=4" alt="Alma-OSS" width="50" height="50"/></a>
 </p>
