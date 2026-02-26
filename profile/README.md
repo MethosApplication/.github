@@ -34,7 +34,6 @@ METHOS
 ### Frontend & Styling
 <p>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="50" height="50"/></a>
-  <a href="https://daisyui.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/daisyui/5A0EF8" alt="DaisyUI" width="50" height="50"/></a>
 </p>
 
 ### Other
